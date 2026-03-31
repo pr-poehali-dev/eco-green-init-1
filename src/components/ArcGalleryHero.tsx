@@ -101,7 +101,7 @@ const ArcGalleryHero = ({
       <div className="relative z-10 flex-1 flex items-center justify-center px-6 -mt-40 md:-mt-52 lg:-mt-64">
         <div className="text-center max-w-2xl px-6 opacity-0 animate-fade-in" style={{ animationDelay: '800ms', animationFillMode: 'forwards' }}>
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-foreground">
-            Учебные памятки и материалы
+            Памятки и пособия
           </h1>
           <p className="mt-4 text-lg text-muted-foreground">
             Все нужные шпаргалки и схемы в одном месте — математика, химия, история, языки и многое другое.
