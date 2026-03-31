@@ -104,7 +104,7 @@ const ArcGalleryHero = ({
             Памятки и пособия
           </h1>
           <p className="mt-4 text-lg text-white/90 drop-shadow">
-            Все нужные шпаргалки и схемы в одном месте — математика, химия, история, языки и многое другое.
+            Всё необходимое для безопасной работы — инструкции, памятки и нормативные пособия по охране труда.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
             <button className="w-full sm:w-auto px-6 py-3 rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
