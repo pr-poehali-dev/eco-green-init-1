@@ -51,7 +51,7 @@ const ArcGalleryHero = ({
   const step = (endAngle - startAngle) / (count - 1);
 
   return (
-    <section className={`relative overflow-hidden min-h-screen flex flex-col ${className}`} style={{ backgroundImage: 'url(https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/bucket/9a3b6ec3-f75d-42b6-ad4e-9c1ccb9668e8.jpeg)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <section className={`relative overflow-hidden min-h-screen flex flex-col ${className}`} style={{ backgroundImage: 'url(https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/bucket/9a3b6ec3-f75d-42b6-ad4e-9c1ccb9668e8.jpeg)', backgroundSize: 'contain', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundColor: '#000' }}>
       <div
         className="relative mx-auto"
         style={{
