@@ -2,12 +2,12 @@ import ArcGalleryHero from "@/components/ArcGalleryHero";
 
 const Index = () => {
   const images = [
-    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/70e1b6fd-9f28-4975-a1e7-3c2423ff0ec3.jpg",
-    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/c984bbcd-c5ab-4108-8858-d24cb6a3db26.jpg",
-    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/804c22a4-6288-4343-87bc-54b1f4ed9bc1.jpg",
-    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/b77367b7-e851-4edf-b9a0-2f1d6d903ba7.jpg",
-    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/07256b5e-d1e8-4882-8d18-c424d58b43e3.jpg",
-    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/191f3542-0de1-417b-970d-f9913d3147d3.jpg",
+    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/0dc2be78-7dfa-4854-bb37-7a7c50eb1fe4.jpg",
+    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/3520de47-032f-492f-baa3-bc40f00b9b43.jpg",
+    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/1aba1a9c-2760-4ce8-82d0-e9d110c5945a.jpg",
+    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/4d3d0daa-f3d7-4676-9757-45ba6e5b9266.jpg",
+    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/723464f4-1ea7-4409-b993-9dc591fe3d7c.jpg",
+    "https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/files/791dc119-1e92-4231-abf0-4d8a31f91d7b.jpg",
   ];
 
   return (
