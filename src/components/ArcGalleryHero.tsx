@@ -108,10 +108,10 @@ const ArcGalleryHero = ({
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
             <button className="w-full sm:w-auto px-6 py-3 rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
-              Смотреть памятки
+              Открыть материалы
             </button>
-            <button className="w-full sm:w-auto px-6 py-3 rounded-full border border-border hover:bg-accent hover:text-accent-foreground transition-all duration-200">
-              Как пользоваться
+            <button className="w-full sm:w-auto px-6 py-3 rounded-full border border-white/60 text-white hover:bg-white/20 transition-all duration-200">
+              Правила безопасности
             </button>
           </div>
         </div>
