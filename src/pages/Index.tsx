@@ -13,12 +13,6 @@ const Index = () => {
   return (
     <main
       className="relative min-h-screen"
-      style={{
-        backgroundImage: "url('https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/bucket/ea04abeb-9bac-4b56-98e3-bff4b1c0bdaf.jpeg')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundRepeat: "no-repeat",
-      }}
     >
       <ArcGalleryHero
         images={images}
