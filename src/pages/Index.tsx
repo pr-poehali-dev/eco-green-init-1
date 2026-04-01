@@ -11,7 +11,15 @@ const Index = () => {
   ];
 
   return (
-    <main className="relative min-h-screen bg-background">
+    <main
+      className="relative min-h-screen"
+      style={{
+        backgroundImage: "url('https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/bucket/586f72fe-c769-4f32-bc11-41dced20bee3.jpeg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+      }}
+    >
       <ArcGalleryHero
         images={images}
         startAngle={20}
