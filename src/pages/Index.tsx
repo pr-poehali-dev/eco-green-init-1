@@ -14,7 +14,7 @@ const Index = () => {
     <main
       className="relative min-h-screen"
       style={{
-        backgroundImage: "url('https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/bucket/586f72fe-c769-4f32-bc11-41dced20bee3.jpeg')",
+        backgroundImage: "url('https://cdn.poehali.dev/projects/6aa3f227-8c87-4486-977a-050a2812fc72/bucket/ea04abeb-9bac-4b56-98e3-bff4b1c0bdaf.jpeg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
